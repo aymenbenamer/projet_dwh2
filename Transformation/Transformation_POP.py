@@ -20,7 +20,7 @@ fact_population_data['id_commune'] = 1  # Associer Versailles (id_ville = 1)
 fact_population_data = fact_population_data[['id_commune', 'nb_population', 'nb_logement', 'nb_constructions', 'nb_entreprise', 'densite_population']]
 
 # Spécifier le répertoire final_data
-final_data_folder = './final_data'
+final_data_folder = '/Users/achrafbenamer/Desktop/projet_dwh/final_data'
 
 # S'assurer que le répertoire final_data existe
 os.makedirs(final_data_folder, exist_ok=True)

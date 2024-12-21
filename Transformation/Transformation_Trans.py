@@ -32,7 +32,7 @@ dim_transport["id_commune"] = 1
 dim_transport.insert(0, 'id_transport', [str(i) for i in range(1, len(dim_transport) + 1)])
 
 
-final_data_folder = './final_data'
+final_data_folder = '/Users/achrafbenamer/Desktop/projet_dwh/final_data'
 
 # S'assurer que le répertoire final_data existe
 os.makedirs(final_data_folder, exist_ok=True)

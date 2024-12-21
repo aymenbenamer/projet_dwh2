@@ -45,12 +45,14 @@ with engine.connect() as connection:
 
 
 # Charger les fichiers CSV
-dim_commune = pd.read_csv('final_data/dim_commune.csv', delimiter=',')
-fact_population = pd.read_csv('final_data/fact_population.csv', delimiter=',')
-dim_transport = pd.read_csv('final_data/dim_transport.csv', delimiter=',')
-dim_polluant =  pd.read_csv('final_data/dim_polluant.csv', delimiter=',')
-dim_time =  pd.read_csv('final_data/dim_time.csv', delimiter=',')
-fact_table_pol = pd.read_csv('final_data/fact_table_pol.csv', delimiter=',')
+dim_commune = pd.read_csv('/Users/achrafbenamer/Desktop/projet_dwh/final_data/dim_commune.csv', delimiter=',')
+fact_population = pd.read_csv('/Users/achrafbenamer/Desktop/projet_dwh/final_data/fact_population.csv', delimiter=',')
+dim_transport = pd.read_csv('/Users/achrafbenamer/Desktop/projet_dwh/final_data/dim_transport.csv', delimiter=',')
+dim_polluant =  pd.read_csv('/Users/achrafbenamer/Desktop/projet_dwh/final_data/dim_polluant.csv', delimiter=',')
+dim_time =  pd.read_csv('/Users/achrafbenamer/Desktop/projet_dwh/final_data/dim_time.csv', delimiter=',')
+fact_table_pol = pd.read_csv('/Users/achrafbenamer/Desktop/projet_dwh/final_data/fact_table_pol.csv', delimiter=',')
+
+
 
 # Connexion à la base de données pour insérer les données
 with engine.connect() as connection:
@@ -60,8 +62,8 @@ with engine.connect() as connection:
     fact_population.to_sql('fact_population', engine, if_exists='replace', index=False)
     dim_transport.to_sql('dim_transport', engine, if_exists='replace', index=False)
     dim_polluant.to_sql('dim_polluant', engine, if_exists='replace', index=False)
-    dim_time.to_sql('dim_time', engine, if_exists='replace', index=False)"""
-    fact_table_pol.to_sql('fact_table_pol', engine, if_exists='replace', index=False)
+    dim_time.to_sql('dim_time', engine, if_exists='replace', index=False)
+    fact_table_pol.to_sql('fact_table_pol', engine, if_exists='replace', index=False)"""
     
     
     

@@ -31,7 +31,7 @@ dim_time["quarter"] = dim_time["Date de début"].dt.quarter
 
 print(dim_time)
 
-final_data_folder = './final_data'
+final_data_folder = '/Users/achrafbenamer/Desktop/projet_dwh/final_data'
 
 # S'assurer que le répertoire final_data existe
 os.makedirs(final_data_folder, exist_ok=True)
