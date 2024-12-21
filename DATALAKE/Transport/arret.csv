@@ -1,0 +1,711 @@
+tp_id,stop_name,OperatorName,shortName,mode,Nom_commune,Code_insee
+AL1071,Gare de Versailles Château Rive Gauche,Keolis Vélizy Vallée de la Bièvre,6182,Bus,Versailles,78646
+AL1119,Gare des Chantiers - Cour de Buc,Keolis Vélizy Vallée de la Bièvre,6161,Bus,Versailles,78646
+AL1120,Gare des Chantiers - États Généraux,Keolis Vélizy Vallée de la Bièvre,6161,Bus,Versailles,78646
+AL1430,Gare Versailles Château Rive Gauche - Sceaux,Transdev Versailles,6240,Bus,Versailles,78646
+AL1431,Gare routière de Versailles Chantiers - Quai K,Transdev Versailles,6240,Bus,Versailles,78646
+AL1432,Les Matelots,Transdev Versailles,6240,Bus,Versailles,78646
+AL1433,Quartier Gally,Transdev Versailles,6240,Bus,Versailles,78646
+AL1437,Rue de Satory,Francilité Saint-Quentin-en-Yvelines,5102,Bus,Versailles,78646
+AL1530,Lycée Hoche,Transdev Versailles,6284,Bus,Versailles,78646
+AL1534,Europe,Transdev Versailles,6284,Bus,Versailles,78646
+AL1535,Gare des Chantiers - Cour de Buc,Transdev Versailles,6284,Bus,Versailles,78646
+AL1906,Ménagerie,Francilité Saint-Quentin-en-Yvelines,5134,Bus,Versailles,78646
+AL1907,Stand de Tir,Francilité Saint-Quentin-en-Yvelines,5134,Bus,Versailles,78646
+AL1908,Ménagerie,Francilité Saint-Quentin-en-Yvelines,5134,Bus,Versailles,78646
+AL2311,Porchefontaine / Octroi,Transdev Sud Yvelines,N161,Bus,Versailles,78646
+AL2318,Porchefontaine / Octroi,Transdev Sud Yvelines,N161,Bus,Versailles,78646
+AL2319,Les Matelots,Transdev Sud Yvelines,N161,Bus,Versailles,78646
+AL2559,Université,RATP,471,Bus,Versailles,78646
+AL2560,Etats-Unis Université,RATP,471,Bus,Versailles,78646
+AL2561,Gare de Versailles - Rive Droite Bd de la Reine,RATP,471,Bus,Versailles,78646
+AL2562,Provence,RATP,471,Bus,Versailles,78646
+AL2938,Place de la Loi,Keolis Vélizy Vallée de la Bièvre,6179,Bus,Versailles,78646
+AL2939,Gare des Chantiers - Cour de Buc,Keolis Vélizy Vallée de la Bièvre,6179,Bus,Versailles,78646
+AL2940,Gare de Versailles Rive Droite,Keolis Vélizy Vallée de la Bièvre,6179,Bus,Versailles,78646
+AL2941,Porchefontaine / Octroi,Keolis Vélizy Vallée de la Bièvre,6180,Bus,Versailles,78646
+AL3050,Gare routière de Versailles Chantiers - Quai I,SNCF,N,LocalTrain,Versailles,78646
+AL4182,Place de la Brèche,Transdev Versailles,6209,Bus,Versailles,78646
+AL4185,Alexandre 1er,Transdev Versailles,6210,Bus,Versailles,78646
+AL4186,Europe,Transdev Versailles,6210,Bus,Versailles,78646
+AL4187,Préfecture,Transdev Versailles,6210,Bus,Versailles,78646
+AL4188,Tournelles,Transdev Versailles,6210,Bus,Versailles,78646
+AL4189,Bourdonnais,Transdev Versailles,6210,Bus,Versailles,78646
+AL4190,Bourdonnais,Transdev Versailles,6210,Bus,Versailles,78646
+AL4191,Préfecture,Transdev Versailles,6210,Bus,Versailles,78646
+AL4192,Pershing,Transdev Versailles,6210,Bus,Versailles,78646
+AL4205,Gauthier de Clagny,Transdev Versailles,6213,Bus,Versailles,78646
+AL4232,Gare de Versailles Château Rive Gauche,Keolis Vélizy Vallée de la Bièvre,6173,Bus,Versailles,78646
+AL4233,Bourdonnais,Keolis Vélizy Vallée de la Bièvre,6173,Bus,Versailles,78646
+AL5073,Les Portes de Saint-Cyr,SNCF,T13,Tramway,Versailles,78646
+AL5302,Versailles Chantiers,SNCF,V,LocalTrain,Versailles,78646
+AL5312,Versailles Chantiers,SNCF,TER,regionalRail,Versailles,78646
+AL5400,Porchefontaine,Keolis Vélizy Vallée de la Bièvre,6124,Bus,Versailles,78646
+AL5401,Jean Mermoz,Keolis Vélizy Vallée de la Bièvre,6124,Bus,Versailles,78646
+AL5402,Vergennes,Keolis Vélizy Vallée de la Bièvre,6124,Bus,Versailles,78646
+AL5419,Préfecture,Keolis Vélizy Vallée de la Bièvre,6123,Bus,Versailles,78646
+AL5420,Vergennes,Keolis Vélizy Vallée de la Bièvre,6123,Bus,Versailles,78646
+AL5430,Porchefontaine,Keolis Vélizy Vallée de la Bièvre,6123,Bus,Versailles,78646
+AL5440,Ploix,Keolis Vélizy Vallée de la Bièvre,6122,Bus,Versailles,78646
+AL5441,Pont Colbert,Keolis Vélizy Vallée de la Bièvre,6122,Bus,Versailles,78646
+AL8131,Château,RATP,171,Bus,Versailles,78646
+AL8133,Vergennes,RATP,171,Bus,Versailles,78646
+AL8135,Jean Mermoz,RATP,171,Bus,Versailles,78646
+AL8155,Porchefontaine / Octroi,RATP,171,Bus,Versailles,78646
+AL8157,Jean Mermoz,RATP,171,Bus,Versailles,78646
+AL8159,Hôtel de Ville,RATP,171,Bus,Versailles,78646
+AL9384,Hôtel de Ville,RATP,171,Bus,Versailles,78646
+AL9395,Vergennes,RATP,171,Bus,Versailles,78646
+AL11588,Côte de Picardie,Transdev Versailles,6201,Bus,Versailles,78646
+AL11589,Bazin,Transdev Versailles,6201,Bus,Versailles,78646
+AL11590,Europe,Transdev Versailles,6201,Bus,Versailles,78646
+AL11591,Place du Marché Notre-Dame,Transdev Versailles,6201,Bus,Versailles,78646
+AL11592,Beauvau Rémilly,Transdev Versailles,6201,Bus,Versailles,78646
+AL11593,Saint-Jean,Transdev Versailles,6201,Bus,Versailles,78646
+AL11594,Place Laboulaye,Transdev Versailles,6201,Bus,Versailles,78646
+AL11602,Notre Dame,Transdev Versailles,6201,Bus,Versailles,78646
+AL11603,Préfecture,Transdev Versailles,6201,Bus,Versailles,78646
+AL11604,Vergennes,Transdev Versailles,6201,Bus,Versailles,78646
+AL11605,Coypel - Champ Lagarde,Transdev Versailles,6201,Bus,Versailles,78646
+AL11606,Gare de Montreuil,Transdev Versailles,6201,Bus,Versailles,78646
+AL11607,Université,Transdev Versailles,6201,Bus,Versailles,78646
+AL11608,Gauthier de Clagny,Transdev Versailles,6201,Bus,Versailles,78646
+AL11609,Lamartine,Transdev Versailles,6202,Bus,Versailles,78646
+AL11610,Sarraut,Transdev Versailles,6202,Bus,Versailles,78646
+AL11611,Versailles Château Rive Gauche,Transdev Versailles,6202,Bus,Versailles,78646
+AL11625,Berthier,Transdev Versailles,6202,Bus,Versailles,78646
+AL11626,Théâtre Montansier,Transdev Versailles,6202,Bus,Versailles,78646
+AL11627,Préfecture,Transdev Versailles,6202,Bus,Versailles,78646
+AL11628,Gare routière de Versailles Chantiers - Quai A,Transdev Versailles,6202,Bus,Versailles,78646
+AL11629,Ploix,Transdev Versailles,6202,Bus,Versailles,78646
+AL11632,Delpal,Transdev Versailles,6203,Bus,Versailles,78646
+AL11633,Guichard,Transdev Versailles,6203,Bus,Versailles,78646
+AL11634,Guichard,Transdev Versailles,6203,Bus,Versailles,78646
+AL11635,Versailles Château Rive Gauche,Transdev Versailles,6203,Bus,Versailles,78646
+AL11636,Europe,Transdev Versailles,6203,Bus,Versailles,78646
+AL11637,Place du Marché Notre-Dame,Transdev Versailles,6203,Bus,Versailles,78646
+AL11638,Notre Dame,Transdev Versailles,6203,Bus,Versailles,78646
+AL11639,Place Laboulaye,Transdev Versailles,6203,Bus,Versailles,78646
+AL11641,Pershing Lemercier,Transdev Versailles,6204,Bus,Versailles,78646
+AL11642,Lemercier,Transdev Versailles,6204,Bus,Versailles,78646
+AL11643,La Bruyère,Transdev Versailles,6204,Bus,Versailles,78646
+AL11644,Richard Mique,Transdev Versailles,6204,Bus,Versailles,78646
+AL11645,Notre Dame,Transdev Versailles,6204,Bus,Versailles,78646
+AL11646,Préfecture,Transdev Versailles,6204,Bus,Versailles,78646
+AL11647,Noailles,Transdev Versailles,6204,Bus,Versailles,78646
+AL11648,Beauvau Rémilly,Transdev Versailles,6204,Bus,Versailles,78646
+AL11649,Pershing,Transdev Versailles,6204,Bus,Versailles,78646
+AL11653,Place du Marché Notre-Dame,Transdev Versailles,6205,Bus,Versailles,78646
+AL11654,Alexandre 1er,Transdev Versailles,6205,Bus,Versailles,78646
+AL11655,Emile Cousin,Transdev Versailles,6205,Bus,Versailles,78646
+AL11657,Emile Cousin,Transdev Versailles,6205,Bus,Versailles,78646
+AL11658,Saint-Symphorien,Transdev Versailles,6205,Bus,Versailles,78646
+AL11659,Notre Dame,Transdev Versailles,6205,Bus,Versailles,78646
+AL11660,Gare de Versailles Rive Droite,Transdev Versailles,6205,Bus,Versailles,78646
+AL11661,De Bange,Transdev Versailles,6205,Bus,Versailles,78646
+AL11666,Les Marronniers,Transdev Versailles,6206,Bus,Versailles,78646
+AL11667,Gare des Chantiers - Abbé Rousseaux,Transdev Versailles,6206,Bus,Versailles,78646
+AL11668,Satory Parc,Transdev Versailles,6206,Bus,Versailles,78646
+AL11669,Clément Ader,Transdev Versailles,6206,Bus,Versailles,78646
+AL11670,Zone Technique,Transdev Versailles,6206,Bus,Versailles,78646
+AL11671,Piscine de Satory,Transdev Versailles,6206,Bus,Versailles,78646
+AL11672,Jayat,Transdev Versailles,6206,Bus,Versailles,78646
+AL11673,Grand Siècle,Transdev Versailles,6206,Bus,Versailles,78646
+AL11677,Emile Cousin,Transdev Versailles,6207,Bus,Versailles,78646
+AL11678,République Lesseps,Transdev Versailles,6207,Bus,Versailles,78646
+AL11679,Château de la Maye,Transdev Versailles,6207,Bus,Versailles,78646
+AL11682,Place de la Paix,Transdev Versailles,6207,Bus,Versailles,78646
+AL11683,Château de la Maye,Transdev Versailles,6207,Bus,Versailles,78646
+AL11684,Etats-Unis Université,Transdev Versailles,6207,Bus,Versailles,78646
+AL11687,Grand Siècle,Transdev Versailles,6208,Bus,Versailles,78646
+AL11688,Antoine Richard,Transdev Versailles,6208,Bus,Versailles,78646
+AL11689,Pershing,Transdev Versailles,6208,Bus,Versailles,78646
+AL11693,Résidence La Forêt,Transdev Versailles,6208,Bus,Versailles,78646
+AL11694,Gare de Montreuil,Transdev Versailles,6208,Bus,Versailles,78646
+AL11958,Grille de l'Orangerie,Transdev Versailles,6211,Bus,Versailles,78646
+AL12014,Versailles Château Rive Gauche,Transdev Versailles,6287,Bus,Versailles,78646
+AL12015,Théâtre Montansier,Transdev Versailles,6287,Bus,Versailles,78646
+AL12016,Saint-Symphorien,Transdev Versailles,6287,Bus,Versailles,78646
+AL12017,Gare de Versailles - Rive Droite Bd de la Reine,Transdev Versailles,6287,Bus,Versailles,78646
+AL12018,Beauvau Rémilly,Transdev Versailles,6287,Bus,Versailles,78646
+AL12019,Saint-Jean,Transdev Versailles,6287,Bus,Versailles,78646
+AL12020,Place de la Brèche,Transdev Versailles,6287,Bus,Versailles,78646
+AL12025,Rond-Point de la Chapelle,Transdev Versailles,6287,Bus,Versailles,78646
+AL12026,Théâtre Montansier,Transdev Versailles,6287,Bus,Versailles,78646
+AL12027,Collège Rameau,Transdev Versailles,6287,Bus,Versailles,78646
+AL12028,Coypel - Champ Lagarde,Transdev Versailles,6287,Bus,Versailles,78646
+AL12220,Lycée Jules Ferry,Francilité Saint-Quentin-en-Yvelines,5141,Bus,Versailles,78646
+AL12221,Ponts et Chaussées,Francilité Saint-Quentin-en-Yvelines,5141,Bus,Versailles,78646
+AL12222,Cité des Cadres / Bir Hakeim,Francilité Saint-Quentin-en-Yvelines,5141,Bus,Versailles,78646
+AL12227,Ponts et Chaussées,Francilité Saint-Quentin-en-Yvelines,5140,Bus,Versailles,78646
+AL12232,Cité des Cadres / Bir Hakeim,Francilité Saint-Quentin-en-Yvelines,5140,Bus,Versailles,78646
+AL12233,Tournelles,Francilité Saint-Quentin-en-Yvelines,5140,Bus,Versailles,78646
+AL12754,Gare de Versailles Château Rive Gauche,Transdev Boucle des Lys,EX01,Bus,Versailles,78646
+AL12755,Boulevard Saint-Antoine,Transdev Boucle des Lys,EX01,Bus,Versailles,78646
+AL13347,Borgnis Desbordes,Keolis Vélizy Vallée de la Bièvre,6185,Bus,Versailles,78646
+AL13348,Noailles,Keolis Vélizy Vallée de la Bièvre,6185,Bus,Versailles,78646
+AL13349,Gare des Chantiers - États Généraux,Keolis Vélizy Vallée de la Bièvre,6185,Bus,Versailles,78646
+AL13354,Tournelles,Keolis Vélizy Vallée de la Bièvre,6185,Bus,Versailles,78646
+AL13526,Gare des Chantiers - États Généraux,Transdev Sud Yvelines,N160,Bus,Versailles,78646
+AL13530,Versailles Château Rive Gauche,Transdev Sud Yvelines,N160,Bus,Versailles,78646
+AL13531,Gare des Chantiers - États Généraux,Transdev Sud Yvelines,N160,Bus,Versailles,78646
+AL13756,République Lesseps,Transdev Versailles,6214,Bus,Versailles,78646
+AL13757,Provence,Transdev Versailles,6214,Bus,Versailles,78646
+AL13758,Préfecture,Transdev Versailles,6214,Bus,Versailles,78646
+AL13759,Provence,Transdev Versailles,6214,Bus,Versailles,78646
+AL13760,Prés aux Bois,Transdev Versailles,6214,Bus,Versailles,78646
+AL15288,Gare des Chantiers - Cour de Buc,Keolis Vélizy Vallée de la Bièvre,6163,Bus,Versailles,78646
+AL15407,Gare Versailles Château Rive Gauche - Sceaux,Francilité Express Ouest,39-12,Bus,Versailles,78646
+AL15408,Gare Rive Gauche - Sceaux,Francilité Express Ouest,39-12,Bus,Versailles,78646
+AL15833,Les Portes de Saint-Cyr,SNCF,T13,Tramway,Versailles,78646
+AL15834,Saint-Cyr,SNCF,T13,Tramway,Versailles,78646
+AL16583,Porchefontaine / Octroi,RATP,171,Bus,Versailles,78646
+AL16594,Château,RATP,171,Bus,Versailles,78646
+AL18660,Gauthier de Clagny,Transdev Versailles,6201,Bus,Versailles,78646
+AL18661,Gare de Montreuil,Transdev Versailles,6201,Bus,Versailles,78646
+AL18662,Vauban,Transdev Versailles,6201,Bus,Versailles,78646
+AL18663,Villa Champ Lagarde,Transdev Versailles,6201,Bus,Versailles,78646
+AL18664,Versailles Chantiers Gare - Quai E,Transdev Versailles,6201,Bus,Versailles,78646
+AL18668,Antoine Richard,Transdev Versailles,6201,Bus,Versailles,78646
+AL18669,Notre Dame,Transdev Versailles,6202,Bus,Versailles,78646
+AL18670,Théâtre Montansier,Transdev Versailles,6202,Bus,Versailles,78646
+AL18671,Place de la Loi,Transdev Versailles,6202,Bus,Versailles,78646
+AL18680,Sarraut,Transdev Versailles,6202,Bus,Versailles,78646
+AL18681,Cisterciens,Transdev Versailles,6202,Bus,Versailles,78646
+AL18682,Square Lamôme,Transdev Versailles,6202,Bus,Versailles,78646
+AL18683,Préfecture,Transdev Versailles,6203,Bus,Versailles,78646
+AL18684,Général Eblé,Transdev Versailles,6203,Bus,Versailles,78646
+AL18685,Satory,Transdev Versailles,6203,Bus,Versailles,78646
+AL18686,Maréchal Moncey,Transdev Versailles,6203,Bus,Versailles,78646
+AL18687,Martinière,Transdev Versailles,6203,Bus,Versailles,78646
+AL18688,Borgnis Desbordes,Transdev Versailles,6203,Bus,Versailles,78646
+AL18689,Préfecture,Transdev Versailles,6203,Bus,Versailles,78646
+AL18690,Normandie,Transdev Versailles,6203,Bus,Versailles,78646
+AL18692,Résidence La Forêt,Transdev Versailles,6204,Bus,Versailles,78646
+AL18693,Parc de Clagny,Transdev Versailles,6204,Bus,Versailles,78646
+AL18694,Général Mangin,Transdev Versailles,6204,Bus,Versailles,78646
+AL18695,Beauvau Remilly,Transdev Versailles,6204,Bus,Versailles,78646
+AL18696,Hôtel de Ville,Transdev Versailles,6204,Bus,Versailles,78646
+AL18697,Gare des Chantiers - États Généraux,Transdev Versailles,6204,Bus,Versailles,78646
+AL18699,Beauvau Remilly,Transdev Versailles,6205,Bus,Versailles,78646
+AL18700,Europe Saint-Cloud,Transdev Versailles,6205,Bus,Versailles,78646
+AL18701,Artois,Transdev Versailles,6205,Bus,Versailles,78646
+AL18702,Gare de Montreuil,Transdev Versailles,6205,Bus,Versailles,78646
+AL18703,Antoine Richard,Transdev Versailles,6205,Bus,Versailles,78646
+AL18704,Stade de Jussieu,Transdev Versailles,6205,Bus,Versailles,78646
+AL18709,Prés aux Bois,Transdev Versailles,6206,Bus,Versailles,78646
+AL18710,Bois des Gonards,Transdev Versailles,6206,Bus,Versailles,78646
+AL18711,Maréchal Moncey,Transdev Versailles,6206,Bus,Versailles,78646
+AL18712,Guichard,Transdev Versailles,6206,Bus,Versailles,78646
+AL18713,Piscine de Satory,Transdev Versailles,6206,Bus,Versailles,78646
+AL18714,Satory Mobilab,Transdev Versailles,6206,Bus,Versailles,78646
+AL18715,Maréchal Moncey,Transdev Versailles,6206,Bus,Versailles,78646
+AL18716,République Lesseps,Transdev Versailles,6206,Bus,Versailles,78646
+AL18718,Antoine Richard,Transdev Versailles,6207,Bus,Versailles,78646
+AL18719,Etats-Unis Université,Transdev Versailles,6207,Bus,Versailles,78646
+AL18720,Albert Joly,Transdev Versailles,6207,Bus,Versailles,78646
+AL18725,Rond-Point de la Chapelle,Transdev Versailles,6207,Bus,Versailles,78646
+AL18726,Gare de Montreuil,Transdev Versailles,6207,Bus,Versailles,78646
+AL18729,Square Lamôme,Transdev Versailles,6208,Bus,Versailles,78646
+AL18730,Gare de Porchefontaine,Transdev Versailles,6208,Bus,Versailles,78646
+AL18731,Maréchal Haig,Transdev Versailles,6208,Bus,Versailles,78646
+AL18737,Grand Siècle,Transdev Versailles,6208,Bus,Versailles,78646
+AL18738,Square Lamôme,Transdev Versailles,6208,Bus,Versailles,78646
+AL19866,Alexis Fourcault,Transdev Versailles,6214,Bus,Versailles,78646
+AL19867,Place du Marché Notre-Dame,Transdev Versailles,6214,Bus,Versailles,78646
+AL19868,Notre Dame,Transdev Versailles,6214,Bus,Versailles,78646
+AL19869,Gare de Versailles - Rive Droite Bd de la Reine,Transdev Versailles,6214,Bus,Versailles,78646
+AL19870,Etats-Unis Université,Transdev Versailles,6214,Bus,Versailles,78646
+AL20430,Versailles Chantiers,SNCF,TER,regionalRail,Versailles,78646
+AL20448,Versailles Chantiers,SNCF,TER,regionalRail,Versailles,78646
+AL21279,Place de la Loi,Keolis Seine et Oise Est,X409,Bus,Versailles,78646
+AL21281,Europe,Keolis Seine et Oise Est,X409,Bus,Versailles,78646
+AL21761,Bois des Gonards,Keolis Vélizy Vallée de la Bièvre,6160,Bus,Versailles,78646
+AL22034,Préfecture,Transdev Versailles,6201,Bus,Versailles,78646
+AL22036,Gare de Versailles Rive Droite,Transdev Versailles,6201,Bus,Versailles,78646
+AL22042,Beauvau Remilly,Transdev Versailles,6201,Bus,Versailles,78646
+AL22044,Villa Champ Lagarde,Transdev Versailles,6201,Bus,Versailles,78646
+AL22046,Côte de Picardie,Transdev Versailles,6201,Bus,Versailles,78646
+AL22048,Europe,Transdev Versailles,6202,Bus,Versailles,78646
+AL22050,Berthier,Transdev Versailles,6202,Bus,Versailles,78646
+AL22058,Place de la Loi,Transdev Versailles,6202,Bus,Versailles,78646
+AL22060,Providence,Transdev Versailles,6202,Bus,Versailles,78646
+AL22062,Lamartine,Transdev Versailles,6202,Bus,Versailles,78646
+AL22064,Moines,Transdev Versailles,6202,Bus,Versailles,78646
+AL22072,Beauvau Remilly,Transdev Versailles,6203,Bus,Versailles,78646
+AL22074,Gare de Versailles Rive Droite,Transdev Versailles,6203,Bus,Versailles,78646
+AL22076,Bourdonnais,Transdev Versailles,6203,Bus,Versailles,78646
+AL22078,Évêché,Transdev Versailles,6203,Bus,Versailles,78646
+AL22080,Ponts et Chaussées,Transdev Versailles,6203,Bus,Versailles,78646
+AL22082,Maréchal Moncey,Transdev Versailles,6203,Bus,Versailles,78646
+AL22084,Lycée Jules Ferry,Transdev Versailles,6203,Bus,Versailles,78646
+AL22085,Gauthier de Clagny,RATP,471,Bus,Versailles,78646
+AL22086,Bourdonnais,Transdev Versailles,6203,Bus,Versailles,78646
+AL22088,Beauvau Rémilly,Transdev Versailles,6203,Bus,Versailles,78646
+AL22090,Progrès,Transdev Versailles,6203,Bus,Versailles,78646
+AL22094,Jean Houdon,Transdev Versailles,6204,Bus,Versailles,78646
+AL22096,Préfecture,Transdev Versailles,6204,Bus,Versailles,78646
+AL22098,Europe,Transdev Versailles,6204,Bus,Versailles,78646
+AL22100,Gare de Versailles Rive Droite,Transdev Versailles,6204,Bus,Versailles,78646
+AL22102,Richard Mique,Transdev Versailles,6204,Bus,Versailles,78646
+AL22104,Lemercier,Transdev Versailles,6204,Bus,Versailles,78646
+AL22110,Boulevard Saint-Antoine,Transdev Versailles,6205,Bus,Versailles,78646
+AL22112,Place de la Loi,Transdev Versailles,6205,Bus,Versailles,78646
+AL22118,Lycée Hoche,Transdev Versailles,6205,Bus,Versailles,78646
+AL22120,République Lesseps,Transdev Versailles,6205,Bus,Versailles,78646
+AL22122,Montreuil,Transdev Versailles,6205,Bus,Versailles,78646
+AL22124,Place du Marché Notre-Dame,Transdev Versailles,6205,Bus,Versailles,78646
+AL22130,Saint-Symphorien,Transdev Versailles,6206,Bus,Versailles,78646
+AL22132,Coypel - Champ Lagarde,Transdev Versailles,6206,Bus,Versailles,78646
+AL22134,Gare des Chantiers - Cour de Buc,Transdev Versailles,6206,Bus,Versailles,78646
+AL22136,Jayat,Transdev Versailles,6206,Bus,Versailles,78646
+AL22138,Soult,Transdev Versailles,6206,Bus,Versailles,78646
+AL22140,Zone Technique,Transdev Versailles,6206,Bus,Versailles,78646
+AL22142,Les Marronniers,Transdev Versailles,6206,Bus,Versailles,78646
+AL22144,Centre d'Alimentation de Satory,Transdev Versailles,6206,Bus,Versailles,78646
+AL22146,Soult,Transdev Versailles,6206,Bus,Versailles,78646
+AL22148,Guichard,Transdev Versailles,6206,Bus,Versailles,78646
+AL22150,Gare des Chantiers - Cour de Buc,Transdev Versailles,6206,Bus,Versailles,78646
+AL22152,Collège Rameau,Transdev Versailles,6206,Bus,Versailles,78646
+AL22154,Saint-Symphorien,Transdev Versailles,6206,Bus,Versailles,78646
+AL22156,Alexis Fourcault,Transdev Versailles,6206,Bus,Versailles,78646
+AL22166,Provence,Transdev Versailles,6207,Bus,Versailles,78646
+AL22168,Parc de Clagny,Transdev Versailles,6207,Bus,Versailles,78646
+AL22180,Parc de Clagny,Transdev Versailles,6207,Bus,Versailles,78646
+AL22182,Antoine Richard,Transdev Versailles,6207,Bus,Versailles,78646
+AL22184,Claude Debussy,Transdev Versailles,6207,Bus,Versailles,78646
+AL22186,Alexis Fourcault,Transdev Versailles,6208,Bus,Versailles,78646
+AL22188,Université - Prévert,Transdev Versailles,6208,Bus,Versailles,78646
+AL22190,Place de la Paix,Transdev Versailles,6208,Bus,Versailles,78646
+AL22200,Place de la Paix,Transdev Versailles,6208,Bus,Versailles,78646
+AL22202,Centre Sportif,Transdev Versailles,6208,Bus,Versailles,78646
+AL22286,INRAE,Transdev Versailles,6211,Bus,Versailles,78646
+AL22288,Rue de Satory,Transdev Versailles,6211,Bus,Versailles,78646
+AL22290,Grille de l'Orangerie,Transdev Versailles,6211,Bus,Versailles,78646
+AL22292,Les Matelots,Transdev Versailles,6211,Bus,Versailles,78646
+AL22294,Quartier Gally,Transdev Versailles,6211,Bus,Versailles,78646
+AL22414,Provence,Transdev Versailles,6287,Bus,Versailles,78646
+AL22416,Musée Lambinet,Transdev Versailles,6287,Bus,Versailles,78646
+AL22418,Place de la Loi,Transdev Versailles,6287,Bus,Versailles,78646
+AL22426,Saint-Symphorien,Transdev Versailles,6287,Bus,Versailles,78646
+AL22428,Villa Champ Lagarde,Transdev Versailles,6287,Bus,Versailles,78646
+AL22457,Rue de Satory,Francilité Saint-Quentin-en-Yvelines,5134,Bus,Versailles,78646
+AL22459,Versailles Chantiers Gare - Quai D,Francilité Saint-Quentin-en-Yvelines,5134,Bus,Versailles,78646
+AL22461,Gare Rive Gauche - Sceaux,Francilité Saint-Quentin-en-Yvelines,5134,Bus,Versailles,78646
+AL22463,Évêché,Francilité Saint-Quentin-en-Yvelines,5134,Bus,Versailles,78646
+AL22467,INRAE,Francilité Saint-Quentin-en-Yvelines,5134,Bus,Versailles,78646
+AL22818,Lycée Jules Ferry,Francilité Saint-Quentin-en-Yvelines,5141,Bus,Versailles,78646
+AL22820,Versailles Chantiers Gare - Quai B,Francilité Saint-Quentin-en-Yvelines,5141,Bus,Versailles,78646
+AL22830,Cité des Cadres / Bir Hakeim,Francilité Saint-Quentin-en-Yvelines,5140,Bus,Versailles,78646
+AL22850,Lycée Jules Ferry,Francilité Saint-Quentin-en-Yvelines,5140,Bus,Versailles,78646
+AL23265,Gare de Versailles - Rive Droite,SNCF,L,LocalTrain,Versailles,78646
+AL23628,Boulevard Saint-Antoine,Transdev Boucle des Lys,EX01,Bus,Versailles,78646
+AL23630,Place de la Loi,Transdev Boucle des Lys,EX01,Bus,Versailles,78646
+AL24061,Gare des Chantiers - Cour de Buc,Keolis Vélizy Vallée de la Bièvre,6179,Bus,Versailles,78646
+AL24065,Gare de Montreuil,Keolis Vélizy Vallée de la Bièvre,6180,Bus,Versailles,78646
+AL24577,Bois des Gonards,Keolis Vélizy Vallée de la Bièvre,6164,Bus,Versailles,78646
+AL24581,Bois des Gonards,Keolis Vélizy Vallée de la Bièvre,6161,Bus,Versailles,78646
+AL24588,Gare des Chantiers - États Généraux,Keolis Vélizy Vallée de la Bièvre,6162,Bus,Versailles,78646
+AL24607,Bois des Gonards,Keolis Vélizy Vallée de la Bièvre,6162,Bus,Versailles,78646
+AL25245,Les Matelots,Transdev Versailles,6240,Bus,Versailles,78646
+AL25246,Rue de Satory,Transdev Versailles,6240,Bus,Versailles,78646
+AL25247,Grille de l'Orangerie,Transdev Versailles,6240,Bus,Versailles,78646
+AL25261,INRAE,Francilité Saint-Quentin-en-Yvelines,5102,Bus,Versailles,78646
+AL25262,INRAE,Francilité Saint-Quentin-en-Yvelines,5102,Bus,Versailles,78646
+AL25263,Les Matelots,Francilité Saint-Quentin-en-Yvelines,5102,Bus,Versailles,78646
+AL25334,Europe,Transdev Versailles,6284,Bus,Versailles,78646
+AL25341,Résidence La Forêt,Transdev Versailles,6284,Bus,Versailles,78646
+AL25795,Pont Saint-Martin,Keolis Vélizy Vallée de la Bièvre,6182,Bus,Versailles,78646
+AL25893,Gare de Versailles Château Rive Gauche,Keolis Vélizy Vallée de la Bièvre,6161,Bus,Versailles,78646
+AL25909,Gare des Chantiers - Cour de Buc,Keolis Vélizy Vallée de la Bièvre,6162,Bus,Versailles,78646
+AL25911,Bois des Gonards,Keolis Vélizy Vallée de la Bièvre,6162,Bus,Versailles,78646
+AL25931,Gare des Chantiers - Cour de Buc,Keolis Vélizy Vallée de la Bièvre,6162,Bus,Versailles,78646
+AL25933,Gare des Chantiers - États Généraux,Keolis Vélizy Vallée de la Bièvre,6162,Bus,Versailles,78646
+AL25935,Gare de Versailles Château Rive Gauche,Keolis Vélizy Vallée de la Bièvre,6162,Bus,Versailles,78646
+AL26517,Théâtre Montansier,Transdev Boucle des Lys,EX01,Bus,Versailles,78646
+AL26519,Gare de Versailles Château Rive Gauche,Transdev Boucle des Lys,EX01,Bus,Versailles,78646
+AL26812,Europe,Keolis Seine et Oise Est,X419,Bus,Versailles,78646
+AL26814,Place de la Loi,Keolis Seine et Oise Est,X419,Bus,Versailles,78646
+AL27182,Vergennes,Keolis Vélizy Vallée de la Bièvre,6124,Bus,Versailles,78646
+AL27184,Porchefontaine,Keolis Vélizy Vallée de la Bièvre,6124,Bus,Versailles,78646
+AL27234,Jean Mermoz,Keolis Vélizy Vallée de la Bièvre,6123,Bus,Versailles,78646
+AL27236,Europe,Keolis Vélizy Vallée de la Bièvre,6123,Bus,Versailles,78646
+AL27254,Pont Colbert,Keolis Vélizy Vallée de la Bièvre,6122,Bus,Versailles,78646
+AL27256,Cisterciens,Keolis Vélizy Vallée de la Bièvre,6122,Bus,Versailles,78646
+AL27425,Quartier Gally,Transdev Versailles,6240,Bus,Versailles,78646
+AL27427,Rue de Satory,Transdev Versailles,6240,Bus,Versailles,78646
+AL27429,Gare Rive Gauche - Sceaux,Transdev Versailles,6240,Bus,Versailles,78646
+AL27597,République Etats-Unis,Transdev Versailles,6284,Bus,Versailles,78646
+AL27599,Lycée Hoche,Transdev Versailles,6284,Bus,Versailles,78646
+AL27601,Vergennes,Transdev Versailles,6284,Bus,Versailles,78646
+AL28253,Versailles Rive Droite,SNCF,L,LocalTrain,Versailles,78646
+AL28287,Versailles Chantiers,SNCF,TER,regionalRail,Versailles,78646
+AL28288,Versailles Chantiers,SNCF,TER,regionalRail,Versailles,78646
+AL28513,Gare de Versailles - Rive Droite,Transdev Sud Yvelines,17s,Bus,Versailles,78646
+AL28666,Tournelles,Keolis Vélizy Vallée de la Bièvre,6185,Bus,Versailles,78646
+AL28667,Gare de Versailles Château Rive Gauche,Keolis Vélizy Vallée de la Bièvre,6185,Bus,Versailles,78646
+AL28668,Ploix,Keolis Vélizy Vallée de la Bièvre,6185,Bus,Versailles,78646
+AL28669,Sarraut,Keolis Vélizy Vallée de la Bièvre,6185,Bus,Versailles,78646
+AL28674,Cisterciens,Keolis Vélizy Vallée de la Bièvre,6185,Bus,Versailles,78646
+AL28675,Providence,Keolis Vélizy Vallée de la Bièvre,6185,Bus,Versailles,78646
+AL28676,Gare des Chantiers - États Généraux,Keolis Vélizy Vallée de la Bièvre,6185,Bus,Versailles,78646
+AL28677,Noailles,Keolis Vélizy Vallée de la Bièvre,6185,Bus,Versailles,78646
+AL28966,Gare de Versailles Château Rive Gauche,Transdev Sud Yvelines,N160,Bus,Versailles,78646
+AL29066,Château,Transdev Versailles,6214,Bus,Versailles,78646
+AL29067,Grand Siècle,Transdev Versailles,6214,Bus,Versailles,78646
+AL30569,Paul Vaillant Couturier,Transdev Versailles,6254,Bus,Versailles,78646
+AL31584,Grille de l'Orangerie,Francilité Saint-Quentin-en-Yvelines,5134,Bus,Versailles,78646
+AL31585,Les Matelots,Francilité Saint-Quentin-en-Yvelines,5134,Bus,Versailles,78646
+AL31975,Versailles Château Rive Gauche,Transdev Sud Yvelines,N161,Bus,Versailles,78646
+AL31981,Gare des Chantiers - États Généraux,Transdev Sud Yvelines,N161,Bus,Versailles,78646
+AL32100,Etats-Unis Université,RATP,471,Bus,Versailles,78646
+AL32350,Gare de Versailles Rive Droite,Keolis Vélizy Vallée de la Bièvre,6179,Bus,Versailles,78646
+AL32351,Porchefontaine / Octroi,Keolis Vélizy Vallée de la Bièvre,6179,Bus,Versailles,78646
+AL32353,Porchefontaine / Octroi,Keolis Vélizy Vallée de la Bièvre,6179,Bus,Versailles,78646
+AL32354,De Bange,Keolis Vélizy Vallée de la Bièvre,6179,Bus,Versailles,78646
+AL32355,Place de la Loi,Keolis Vélizy Vallée de la Bièvre,6179,Bus,Versailles,78646
+AL33356,Cité des Cadres / Bir Hakeim,Francilité Express Ouest,EX307,Bus,Versailles,78646
+AL33362,Cité des Cadres / Bir Hakeim,Francilité Express Ouest,EX307,Bus,Versailles,78646
+AL34115,Cité des Cadres / Bir Hakeim,Francilité Saint-Quentin-en-Yvelines,5141,Bus,Versailles,78646
+AL34116,Ponts et Chaussées,Francilité Saint-Quentin-en-Yvelines,5141,Bus,Versailles,78646
+AL34117,Tournelles,Francilité Saint-Quentin-en-Yvelines,5141,Bus,Versailles,78646
+AL34118,Gare Rive Gauche - Sceaux,Francilité Saint-Quentin-en-Yvelines,5141,Bus,Versailles,78646
+AL34119,Tournelles,Francilité Saint-Quentin-en-Yvelines,5141,Bus,Versailles,78646
+AL34516,Quartier Gally,Transdev Versailles,6211,Bus,Versailles,78646
+AL34518,Gare Rive Gauche - Sceaux,Transdev Versailles,6211,Bus,Versailles,78646
+AL34562,Coypel - Champ Lagarde,Transdev Versailles,6287,Bus,Versailles,78646
+AL34563,Etats-Unis Université,Transdev Versailles,6287,Bus,Versailles,78646
+AL34564,Berthier,Transdev Versailles,6287,Bus,Versailles,78646
+AL34565,Place Laboulaye,Transdev Versailles,6287,Bus,Versailles,78646
+AL34573,Musée Lambinet,Transdev Versailles,6287,Bus,Versailles,78646
+AL34574,Gare de Versailles - Rive Droite Bd de la Reine,Transdev Versailles,6287,Bus,Versailles,78646
+AL34575,Vergennes,Transdev Versailles,6287,Bus,Versailles,78646
+AL34743,Porchefontaine / Octroi,Keolis Vélizy Vallée de la Bièvre,6124,Bus,Versailles,78646
+AL34761,Vergennes,Keolis Vélizy Vallée de la Bièvre,6123,Bus,Versailles,78646
+AL34767,Sarraut,Keolis Vélizy Vallée de la Bièvre,6122,Bus,Versailles,78646
+AL34768,Sarraut,Keolis Vélizy Vallée de la Bièvre,6122,Bus,Versailles,78646
+AL35279,Gare de Versailles - Rive Droite,Transdev Versailles,6217,Bus,Versailles,78646
+AL35287,Place de la Loi,Keolis Seine et Oise Est,X419,Bus,Versailles,78646
+AL36537,Gare des Chantiers - Cour de Buc,Keolis Vélizy Vallée de la Bièvre,6182,Bus,Versailles,78646
+AL36538,Noailles,Keolis Vélizy Vallée de la Bièvre,6182,Bus,Versailles,78646
+AL36594,Gare des Chantiers - États Généraux,Keolis Vélizy Vallée de la Bièvre,6161,Bus,Versailles,78646
+AL36595,Gare des Chantiers - Cour de Buc,Keolis Vélizy Vallée de la Bièvre,6161,Bus,Versailles,78646
+AL36605,Noailles,Keolis Vélizy Vallée de la Bièvre,6161,Bus,Versailles,78646
+AL36606,Gare de Versailles Château Rive Gauche,Keolis Vélizy Vallée de la Bièvre,6162,Bus,Versailles,78646
+AL36619,Noailles,Keolis Vélizy Vallée de la Bièvre,6162,Bus,Versailles,78646
+AL37088,Grille de l'Orangerie,Transdev Versailles,6240,Bus,Versailles,78646
+AL37090,Les Matelots,Francilité Saint-Quentin-en-Yvelines,5102,Bus,Versailles,78646
+AL37100,Rue de Satory,Francilité Saint-Quentin-en-Yvelines,5102,Bus,Versailles,78646
+AL37162,Gare des Chantiers - Cour de Buc,Transdev Versailles,6284,Bus,Versailles,78646
+AL37163,Vergennes,Transdev Versailles,6284,Bus,Versailles,78646
+AL37164,Alexandre 1er,Transdev Versailles,6284,Bus,Versailles,78646
+AL37165,Pershing,Transdev Versailles,6284,Bus,Versailles,78646
+AL37171,Université - Prévert,Transdev Versailles,6284,Bus,Versailles,78646
+AL37172,Alexandre 1er,Transdev Versailles,6284,Bus,Versailles,78646
+AL37462,Pré Catalan,Transdev Sud Yvelines,17s,Bus,Versailles,78646
+AL37771,Pont Colbert,Keolis Vélizy Vallée de la Bièvre,6185,Bus,Versailles,78646
+AL38059,Prés aux Bois,Transdev Versailles,6214,Bus,Versailles,78646
+AL38060,Grand Siècle,Transdev Versailles,6214,Bus,Versailles,78646
+AL38061,Gare de Versailles - Rive Droite Bd de la Reine,Transdev Versailles,6214,Bus,Versailles,78646
+AL38062,Place du Marché Notre-Dame,Transdev Versailles,6214,Bus,Versailles,78646
+AL38063,Europe,Transdev Versailles,6214,Bus,Versailles,78646
+AL38064,République Lesseps,Transdev Versailles,6214,Bus,Versailles,78646
+AL38618,Porte des Hauts-de-Seine,RATP,471,Bus,Versailles,78646
+AL38619,Gauthier de Clagny,RATP,471,Bus,Versailles,78646
+AL38620,Provence,RATP,471,Bus,Versailles,78646
+AL38789,INRAE,Francilité Saint-Quentin-en-Yvelines,5134,Bus,Versailles,78646
+AL38790,Stand de Tir,Francilité Saint-Quentin-en-Yvelines,5134,Bus,Versailles,78646
+AL38793,Rue de Satory,Francilité Saint-Quentin-en-Yvelines,5134,Bus,Versailles,78646
+AL38994,Les Matelots,Transdev Sud Yvelines,N161,Bus,Versailles,78646
+AL38995,Gare des Chantiers - États Généraux,Transdev Sud Yvelines,N161,Bus,Versailles,78646
+AL39001,Gare de Versailles Château Rive Gauche,Transdev Sud Yvelines,N161,Bus,Versailles,78646
+AL39446,Gare de Montreuil,SNCF,L,LocalTrain,Versailles,78646
+AL39585,Porchefontaine / Octroi,Keolis Vélizy Vallée de la Bièvre,6180,Bus,Versailles,78646
+AL39588,Gare de Montreuil,Keolis Vélizy Vallée de la Bièvre,6180,Bus,Versailles,78646
+AL43605,Pershing,Transdev Versailles,6210,Bus,Versailles,78646
+AL43608,Université - Prévert,Transdev Versailles,6210,Bus,Versailles,78646
+AL43611,Évêché,Transdev Versailles,6210,Bus,Versailles,78646
+AL43614,Tournelles,Transdev Versailles,6210,Bus,Versailles,78646
+AL43617,République Etats-Unis,Transdev Versailles,6210,Bus,Versailles,78646
+AL43620,Université - Prévert,Transdev Versailles,6210,Bus,Versailles,78646
+AL43623,Résidence La Forêt,Transdev Versailles,6210,Bus,Versailles,78646
+AL43647,Université - Prévert,Transdev Versailles,6213,Bus,Versailles,78646
+AL43650,Porte des Hauts-de-Seine,Transdev Versailles,6213,Bus,Versailles,78646
+AL43653,Gare de Versailles Château Rive Gauche,Transdev Versailles,6213,Bus,Versailles,78646
+AL43991,Gare des Chantiers - États Généraux,Keolis Vélizy Vallée de la Bièvre,6163,Bus,Versailles,78646
+AL44009,Bois des Gonards,Keolis Vélizy Vallée de la Bièvre,6163,Bus,Versailles,78646
+AL44012,Gare de Versailles Château Rive Gauche,Keolis Vélizy Vallée de la Bièvre,6163,Bus,Versailles,78646
+AL46567,Gare des Chantiers - Abbé Rousseaux,Keolis Vélizy Vallée de la Bièvre,6124,Bus,Versailles,78646
+AL46568,Jean Mermoz,Keolis Vélizy Vallée de la Bièvre,6124,Bus,Versailles,78646
+AL46569,Porchefontaine / Octroi,Keolis Vélizy Vallée de la Bièvre,6124,Bus,Versailles,78646
+AL46586,Porchefontaine / Octroi,Keolis Vélizy Vallée de la Bièvre,6123,Bus,Versailles,78646
+AL46587,Porchefontaine,Keolis Vélizy Vallée de la Bièvre,6123,Bus,Versailles,78646
+AL46597,Ploix,Keolis Vélizy Vallée de la Bièvre,6122,Bus,Versailles,78646
+AL46598,Providence,Keolis Vélizy Vallée de la Bièvre,6122,Bus,Versailles,78646
+AL49543,République Etats-Unis,Transdev Versailles,6210,Bus,Versailles,78646
+AL49544,Lycée Hoche,Transdev Versailles,6210,Bus,Versailles,78646
+AL49545,Versailles Château Rive Gauche,Transdev Versailles,6210,Bus,Versailles,78646
+AL49546,Europe,Transdev Versailles,6210,Bus,Versailles,78646
+AL49552,Picardie,Transdev Versailles,6213,Bus,Versailles,78646
+AL49553,Lycée Hoche,Transdev Versailles,6213,Bus,Versailles,78646
+AL49573,Évêché,Keolis Vélizy Vallée de la Bièvre,6173,Bus,Versailles,78646
+AL50319,Versailles Chantiers,SNCF,C,RapidTransit,Versailles,78646
+AL50449,Saint-Cyr,SNCF,T13,Tramway,Versailles,78646
+AL50640,Versailles Chantiers,SNCF,N,LocalTrain,Versailles,78646
+AL50663,Versailles Chantiers,SNCF,U,LocalTrain,Versailles,78646
+AL50833,Porte des Hauts-de-Seine,Transdev Versailles,6201,Bus,Versailles,78646
+AL50834,Université,Transdev Versailles,6201,Bus,Versailles,78646
+AL50835,Université - Prévert,Transdev Versailles,6201,Bus,Versailles,78646
+AL50836,Antoine Richard,Transdev Versailles,6201,Bus,Versailles,78646
+AL50837,Grand Siècle,Transdev Versailles,6201,Bus,Versailles,78646
+AL50838,Coypel - Champ Lagarde,Transdev Versailles,6201,Bus,Versailles,78646
+AL50839,Notre Dame,Transdev Versailles,6201,Bus,Versailles,78646
+AL50845,Europe,Transdev Versailles,6201,Bus,Versailles,78646
+AL50846,Vauban,Transdev Versailles,6201,Bus,Versailles,78646
+AL50847,Picardie,Transdev Versailles,6201,Bus,Versailles,78646
+AL50848,Porchefontaine,Transdev Versailles,6202,Bus,Versailles,78646
+AL50849,Square Lamôme,Transdev Versailles,6202,Bus,Versailles,78646
+AL50850,Moines,Transdev Versailles,6202,Bus,Versailles,78646
+AL50851,Ploix,Transdev Versailles,6202,Bus,Versailles,78646
+AL50852,Providence,Transdev Versailles,6202,Bus,Versailles,78646
+AL50853,Préfecture,Transdev Versailles,6202,Bus,Versailles,78646
+AL50858,Place du Marché Notre-Dame,Transdev Versailles,6202,Bus,Versailles,78646
+AL50859,Gare de Versailles Château Rive Gauche,Transdev Versailles,6202,Bus,Versailles,78646
+AL50860,Porchefontaine,Transdev Versailles,6202,Bus,Versailles,78646
+AL50861,Porchefontaine Louis XIV,Transdev Versailles,6202,Bus,Versailles,78646
+AL50863,Place du Marché Notre-Dame,Transdev Versailles,6203,Bus,Versailles,78646
+AL50864,Notre Dame,Transdev Versailles,6203,Bus,Versailles,78646
+AL50865,Europe,Transdev Versailles,6203,Bus,Versailles,78646
+AL50866,Gare de Versailles Château Rive Gauche,Transdev Versailles,6203,Bus,Versailles,78646
+AL50867,Ponts et Chaussées,Transdev Versailles,6203,Bus,Versailles,78646
+AL50868,Tournelles,Transdev Versailles,6203,Bus,Versailles,78646
+AL50869,Gare de Versailles Rive Droite,Transdev Versailles,6203,Bus,Versailles,78646
+AL50871,Place du Marché Notre-Dame,Transdev Versailles,6204,Bus,Versailles,78646
+AL50872,Gare des Chantiers - États Généraux,Transdev Versailles,6204,Bus,Versailles,78646
+AL50873,Hôtel de Ville,Transdev Versailles,6204,Bus,Versailles,78646
+AL50874,Place du Marché Notre-Dame,Transdev Versailles,6204,Bus,Versailles,78646
+AL50875,Jean Houdon,Transdev Versailles,6204,Bus,Versailles,78646
+AL50881,Gare de Versailles Rive Droite,Transdev Versailles,6205,Bus,Versailles,78646
+AL50882,Notre Dame,Transdev Versailles,6205,Bus,Versailles,78646
+AL50883,Saint-Symphorien,Transdev Versailles,6205,Bus,Versailles,78646
+AL50884,République Lesseps,Transdev Versailles,6205,Bus,Versailles,78646
+AL50885,Jules Massenet,Transdev Versailles,6205,Bus,Versailles,78646
+AL50886,Stade de Jussieu,Transdev Versailles,6205,Bus,Versailles,78646
+AL50887,Jules Massenet,Transdev Versailles,6205,Bus,Versailles,78646
+AL50888,Gare de Montreuil,Transdev Versailles,6205,Bus,Versailles,78646
+AL50889,Alexandre 1er,Transdev Versailles,6205,Bus,Versailles,78646
+AL50890,Lycée Hoche,Transdev Versailles,6205,Bus,Versailles,78646
+AL50891,Europe Saint-Cloud,Transdev Versailles,6205,Bus,Versailles,78646
+AL50892,Beauvau Rémilly,Transdev Versailles,6205,Bus,Versailles,78646
+AL50893,Boulevard Saint-Antoine,Transdev Versailles,6205,Bus,Versailles,78646
+AL50897,Centre d'Alimentation de Satory,Transdev Versailles,6206,Bus,Versailles,78646
+AL50898,Clément Ader,Transdev Versailles,6206,Bus,Versailles,78646
+AL50899,Satory Parc,Transdev Versailles,6206,Bus,Versailles,78646
+AL50900,Satory Mobilab,Transdev Versailles,6206,Bus,Versailles,78646
+AL50901,Coypel - Champ Lagarde,Transdev Versailles,6206,Bus,Versailles,78646
+AL50902,Villa Champ Lagarde,Transdev Versailles,6206,Bus,Versailles,78646
+AL50903,Prés aux Bois,Transdev Versailles,6206,Bus,Versailles,78646
+AL50906,Gare de Montreuil,Transdev Versailles,6207,Bus,Versailles,78646
+AL50907,Place de la Paix,Transdev Versailles,6207,Bus,Versailles,78646
+AL50908,Rond-Point de la Chapelle,Transdev Versailles,6207,Bus,Versailles,78646
+AL50919,Emile Cousin,Transdev Versailles,6207,Bus,Versailles,78646
+AL50920,Centre Sportif,Transdev Versailles,6208,Bus,Versailles,78646
+AL50921,Rue Vauban,Transdev Versailles,6208,Bus,Versailles,78646
+AL50922,Gare de Montreuil,Transdev Versailles,6208,Bus,Versailles,78646
+AL50923,Résidence La Forêt,Transdev Versailles,6208,Bus,Versailles,78646
+AL50924,Place Laboulaye,Transdev Versailles,6208,Bus,Versailles,78646
+AL50927,Maréchal Haig,Transdev Versailles,6208,Bus,Versailles,78646
+AL50928,Pershing,Transdev Versailles,6208,Bus,Versailles,78646
+AL50929,Université - Prévert,Transdev Versailles,6208,Bus,Versailles,78646
+AL50930,Côte de Picardie,Transdev Versailles,6208,Bus,Versailles,78646
+AL50931,Antoine Richard,Transdev Versailles,6208,Bus,Versailles,78646
+AL50932,Alexis Fourcault,Transdev Versailles,6208,Bus,Versailles,78646
+AL50933,Stade de Porchefontaine,Transdev Versailles,6208,Bus,Versailles,78646
+AL50934,Les Grands Chênes,Transdev Versailles,6208,Bus,Versailles,78646
+AL51200,Les Matelots,Transdev Versailles,6211,Bus,Versailles,78646
+AL51201,Gare Versailles Château Rive Gauche - Sceaux,Transdev Versailles,6211,Bus,Versailles,78646
+AL51202,Gare des Chantiers - Gare Routière,Transdev Versailles,6211,Bus,Versailles,78646
+AL51203,INRAE,Transdev Versailles,6211,Bus,Versailles,78646
+AL51247,Villa Champ Lagarde,Transdev Versailles,6287,Bus,Versailles,78646
+AL51248,Collège Rameau,Transdev Versailles,6287,Bus,Versailles,78646
+AL51249,Rond-Point de la Chapelle,Transdev Versailles,6287,Bus,Versailles,78646
+AL51254,Place de la Loi,Transdev Versailles,6287,Bus,Versailles,78646
+AL51255,Gare Versailles Château Rive Gauche,Transdev Versailles,6287,Bus,Versailles,78646
+AL51447,Gare Rive Gauche - Sceaux,Francilité Saint-Quentin-en-Yvelines,5140,Bus,Versailles,78646
+AL51448,Tournelles,Francilité Saint-Quentin-en-Yvelines,5140,Bus,Versailles,78646
+AL51449,Lycée Jules Ferry,Francilité Saint-Quentin-en-Yvelines,5140,Bus,Versailles,78646
+AL51456,Gare Versailles Château Rive Gauche - Sceaux,Francilité Saint-Quentin-en-Yvelines,5140,Bus,Versailles,78646
+AL51457,Quai B,Francilité Saint-Quentin-en-Yvelines,5140,Bus,Versailles,78646
+AL51911,Gare routière de Versailles Chantiers - Quai C,Transdev Boucle des Lys,EX01,Bus,Versailles,78646
+AL51913,Château,Transdev Boucle des Lys,EX01,Bus,Versailles,78646
+AL51915,Berthier,Transdev Boucle des Lys,EX01,Bus,Versailles,78646
+AL51943,Berthier,Transdev Boucle des Lys,EX01,Bus,Versailles,78646
+AL51945,Château,Transdev Boucle des Lys,EX01,Bus,Versailles,78646
+AL51947,Gare routière de Versailles Chantiers - Quai A,Transdev Boucle des Lys,EX01,Bus,Versailles,78646
+AL53836,Place Laboulaye,Transdev Versailles,6282,Bus,Versailles,78646
+AL54079,Cité des Cadres / Bir Hakeim,Francilité Express Ouest,39-34,Bus,Versailles,78646
+AL54145,Gare de Versailles Château Rive Gauche,Keolis Vélizy Vallée de la Bièvre,6163,Bus,Versailles,78646
+AL54149,Gare des Chantiers - Cour de Buc,Keolis Vélizy Vallée de la Bièvre,6163,Bus,Versailles,78646
+AL54150,Gare des Chantiers - États Généraux,Keolis Vélizy Vallée de la Bièvre,6163,Bus,Versailles,78646
+AL54151,Noailles,Keolis Vélizy Vallée de la Bièvre,6163,Bus,Versailles,78646
+AL54155,Gare des Chantiers - Cour de Buc,Francilité Express Ouest,EX307,Bus,Versailles,78646
+AL54975,Montreuil,SNCF,L,LocalTrain,Versailles,78646
+AL55042,Place de la Loi,Keolis Seine et Oise Est,X409,Bus,Versailles,78646
+AL55313,Saint-Charles,Transdev Versailles,6201,Bus,Versailles,78646
+AL55314,Vergennes,Transdev Versailles,6201,Bus,Versailles,78646
+AL55315,Versailles Château Rive Gauche,Transdev Versailles,6201,Bus,Versailles,78646
+AL55316,De Bange,Transdev Versailles,6201,Bus,Versailles,78646
+AL55318,Gare de Versailles Rive Droite,Transdev Versailles,6201,Bus,Versailles,78646
+AL55319,Place du Marché Notre-Dame,Transdev Versailles,6201,Bus,Versailles,78646
+AL55320,Gare de Versailles Château Rive Gauche,Transdev Versailles,6201,Bus,Versailles,78646
+AL55321,Gare routière de Versailles Chantiers - Quai A,Transdev Versailles,6201,Bus,Versailles,78646
+AL55322,Saint-Charles,Transdev Versailles,6201,Bus,Versailles,78646
+AL55323,Grand Siècle,Transdev Versailles,6201,Bus,Versailles,78646
+AL55324,Bazin,Transdev Versailles,6201,Bus,Versailles,78646
+AL55325,Université - Prévert,Transdev Versailles,6201,Bus,Versailles,78646
+AL55326,Cisterciens,Transdev Versailles,6202,Bus,Versailles,78646
+AL55327,Versailles Chantiers Gare - Quai E,Transdev Versailles,6202,Bus,Versailles,78646
+AL55328,Place du Marché Notre-Dame,Transdev Versailles,6202,Bus,Versailles,78646
+AL55336,Notre Dame,Transdev Versailles,6202,Bus,Versailles,78646
+AL55337,Europe,Transdev Versailles,6202,Bus,Versailles,78646
+AL55340,Tournelles,Transdev Versailles,6203,Bus,Versailles,78646
+AL55341,Lycée Jules Ferry,Transdev Versailles,6203,Bus,Versailles,78646
+AL55342,Martinière,Transdev Versailles,6203,Bus,Versailles,78646
+AL55343,Delpal,Transdev Versailles,6203,Bus,Versailles,78646
+AL55344,Général Eblé,Transdev Versailles,6203,Bus,Versailles,78646
+AL55345,Évêché,Transdev Versailles,6203,Bus,Versailles,78646
+AL55346,De Bange,Transdev Versailles,6203,Bus,Versailles,78646
+AL55347,Saint-Jean,Transdev Versailles,6203,Bus,Versailles,78646
+AL55348,Gare de Versailles Rive Droite,Transdev Versailles,6204,Bus,Versailles,78646
+AL55349,Europe,Transdev Versailles,6204,Bus,Versailles,78646
+AL55350,Noailles,Transdev Versailles,6204,Bus,Versailles,78646
+AL55351,Gare routière de Versailles Chantiers - Quai F,Transdev Versailles,6204,Bus,Versailles,78646
+AL55352,Notre Dame,Transdev Versailles,6204,Bus,Versailles,78646
+AL55353,Général Mangin,Transdev Versailles,6204,Bus,Versailles,78646
+AL55354,La Bruyère,Transdev Versailles,6204,Bus,Versailles,78646
+AL55356,Antoine Richard,Transdev Versailles,6205,Bus,Versailles,78646
+AL55357,Saint-Jean,Transdev Versailles,6205,Bus,Versailles,78646
+AL55358,Place de la Loi,Transdev Versailles,6205,Bus,Versailles,78646
+AL55361,Grand Siècle,Transdev Versailles,6206,Bus,Versailles,78646
+AL55362,Alexis Fourcault,Transdev Versailles,6206,Bus,Versailles,78646
+AL55363,République Lesseps,Transdev Versailles,6206,Bus,Versailles,78646
+AL55364,Collège Rameau,Transdev Versailles,6206,Bus,Versailles,78646
+AL55365,Villa Champ Lagarde,Transdev Versailles,6206,Bus,Versailles,78646
+AL55366,Jean Mermoz,Transdev Versailles,6206,Bus,Versailles,78646
+AL55367,Satory Lisière,Transdev Versailles,6206,Bus,Versailles,78646
+AL55368,Satory Lisière,Transdev Versailles,6206,Bus,Versailles,78646
+AL55369,Bois des Gonards,Transdev Versailles,6206,Bus,Versailles,78646
+AL55370,Jean Mermoz,Transdev Versailles,6206,Bus,Versailles,78646
+AL55372,Claude Debussy,Transdev Versailles,6207,Bus,Versailles,78646
+AL55377,Albert Joly,Transdev Versailles,6207,Bus,Versailles,78646
+AL55378,Provence,Transdev Versailles,6207,Bus,Versailles,78646
+AL55379,République Lesseps,Transdev Versailles,6207,Bus,Versailles,78646
+AL55380,Bernard de Jussieu,Transdev Versailles,6207,Bus,Versailles,78646
+AL55382,Stade de Porchefontaine,Transdev Versailles,6208,Bus,Versailles,78646
+AL55383,Côte de Picardie,Transdev Versailles,6208,Bus,Versailles,78646
+AL55385,Place Laboulaye,Transdev Versailles,6208,Bus,Versailles,78646
+AL55386,Rue Vauban,Transdev Versailles,6208,Bus,Versailles,78646
+AL55387,Gare de Porchefontaine,Transdev Versailles,6208,Bus,Versailles,78646
+AL55433,Rue de Satory,Transdev Versailles,6211,Bus,Versailles,78646
+AL55491,Vergennes,Transdev Versailles,6287,Bus,Versailles,78646
+AL55495,Place de la Brèche,Transdev Versailles,6287,Bus,Versailles,78646
+AL55496,Beauvau Remilly,Transdev Versailles,6287,Bus,Versailles,78646
+AL55497,Berthier,Transdev Versailles,6287,Bus,Versailles,78646
+AL55498,Provence,Transdev Versailles,6287,Bus,Versailles,78646
+AL55499,Etats-Unis Université,Transdev Versailles,6287,Bus,Versailles,78646
+AL55686,Gare Versailles Château Rive Gauche - Sceaux,Francilité Saint-Quentin-en-Yvelines,5141,Bus,Versailles,78646
+AL55699,Ponts et Chaussées,Francilité Saint-Quentin-en-Yvelines,5140,Bus,Versailles,78646
+AL56055,Place Hoche,Transdev Boucle des Lys,EX01,Bus,Versailles,78646
+AL56056,Théâtre Montansier,Transdev Boucle des Lys,EX01,Bus,Versailles,78646
+AL56057,Place de la Loi,Transdev Boucle des Lys,EX01,Bus,Versailles,78646
+AL56324,Versailles Chantiers,SNCF,TER,regionalRail,Versailles,78646
+AL56327,Versailles Chantiers,SNCF,TER,regionalRail,Versailles,78646
+AL56347,Versailles Chantiers,SNCF,TER,regionalRail,Versailles,78646
+AL57393,Gare des Chantiers - États Généraux,Keolis Vélizy Vallée de la Bièvre,6182,Bus,Versailles,78646
+AL57433,Gare des Chantiers - Cour de Buc,Keolis Vélizy Vallée de la Bièvre,6164,Bus,Versailles,78646
+AL57434,Gare des Chantiers - Abbé Rousseaux,Keolis Vélizy Vallée de la Bièvre,6164,Bus,Versailles,78646
+AL57435,Gare des Chantiers - Cour de Buc,Keolis Vélizy Vallée de la Bièvre,6164,Bus,Versailles,78646
+AL57436,Bois des Gonards,Keolis Vélizy Vallée de la Bièvre,6164,Bus,Versailles,78646
+AL57442,Hôtel de Ville,Keolis Vélizy Vallée de la Bièvre,6161,Bus,Versailles,78646
+AL57448,Bois des Gonards,Keolis Vélizy Vallée de la Bièvre,6161,Bus,Versailles,78646
+AL57449,Gare de Versailles Château Rive Gauche,Keolis Vélizy Vallée de la Bièvre,6161,Bus,Versailles,78646
+AL57450,Hôtel de Ville,Keolis Vélizy Vallée de la Bièvre,6162,Bus,Versailles,78646
+AL57608,INRAE,Transdev Versailles,6240,Bus,Versailles,78646
+AL57609,INRAE,Transdev Versailles,6240,Bus,Versailles,78646
+AL57614,Gare Versailles Château Rive Gauche,Francilité Saint-Quentin-en-Yvelines,5102,Bus,Versailles,78646
+AL57615,Grille de l'Orangerie,Francilité Saint-Quentin-en-Yvelines,5102,Bus,Versailles,78646
+AL57631,Grille de l'Orangerie,Francilité Saint-Quentin-en-Yvelines,5102,Bus,Versailles,78646
+AL57632,Gare Versailles Château Rive Gauche - Sceaux,Francilité Saint-Quentin-en-Yvelines,5102,Bus,Versailles,78646
+AL57633,Versailles Chantiers Gare - Quai J,Francilité Saint-Quentin-en-Yvelines,5102,Bus,Versailles,78646
+AL57708,Jean Mermoz,Transdev Versailles,6284,Bus,Versailles,78646
+AL57709,République Etats-Unis,Transdev Versailles,6284,Bus,Versailles,78646
+AL57710,Université - Prévert,Transdev Versailles,6284,Bus,Versailles,78646
+AL57711,Résidence La Forêt,Transdev Versailles,6284,Bus,Versailles,78646
+AL57717,Pershing,Transdev Versailles,6284,Bus,Versailles,78646
+AL57718,Jean Mermoz,Transdev Versailles,6284,Bus,Versailles,78646
+AL58782,Lycée Jules Ferry,Keolis Vélizy Vallée de la Bièvre,6185,Bus,Versailles,78646
+AL58783,Évêché,Keolis Vélizy Vallée de la Bièvre,6185,Bus,Versailles,78646
+AL58784,Bourdonnais,Keolis Vélizy Vallée de la Bièvre,6185,Bus,Versailles,78646
+AL58785,Providence,Keolis Vélizy Vallée de la Bièvre,6185,Bus,Versailles,78646
+AL58786,Cisterciens,Keolis Vélizy Vallée de la Bièvre,6185,Bus,Versailles,78646
+AL58788,Sarraut,Keolis Vélizy Vallée de la Bièvre,6185,Bus,Versailles,78646
+AL58789,Ploix,Keolis Vélizy Vallée de la Bièvre,6185,Bus,Versailles,78646
+AL58790,Bourdonnais,Keolis Vélizy Vallée de la Bièvre,6185,Bus,Versailles,78646
+AL58791,Lycée Jules Ferry,Keolis Vélizy Vallée de la Bièvre,6185,Bus,Versailles,78646
+AL58984,Gare routière de Versailles Chantiers - Quai G,Keolis Vélizy Vallée de la Bièvre,Soir,Bus,Versailles,78646
+AL60265,Etats-Unis Université,Transdev Versailles,6214,Bus,Versailles,78646
+AL60266,Notre Dame,Transdev Versailles,6214,Bus,Versailles,78646
+AL60267,Europe,Transdev Versailles,6214,Bus,Versailles,78646
+AL60268,Alexis Fourcault,Transdev Versailles,6214,Bus,Versailles,78646
+AL61379,Résidence La Forêt,Transdev Versailles,6210,Bus,Versailles,78646
+AL61380,Gare de Versailles Château Rive Gauche,Transdev Versailles,6210,Bus,Versailles,78646
+AL61381,Lycée Hoche,Transdev Versailles,6210,Bus,Versailles,78646
+AL61391,Europe,Transdev Versailles,6213,Bus,Versailles,78646
+AL61392,Lycée Hoche,Transdev Versailles,6213,Bus,Versailles,78646
+AL61418,Pont Saint-Martin,Keolis Vélizy Vallée de la Bièvre,6173,Bus,Versailles,78646
+AL61433,Place Laboulaye,Transdev Versailles,6285,Bus,Versailles,78646
+AL65084,Europe,Keolis Vélizy Vallée de la Bièvre,6123,Bus,Versailles,78646
+AL65085,Hôtel de Ville,Keolis Vélizy Vallée de la Bièvre,6123,Bus,Versailles,78646
+AL65086,Jean Mermoz,Keolis Vélizy Vallée de la Bièvre,6123,Bus,Versailles,78646
+AL65093,Porchefontaine / Octroi,Keolis Vélizy Vallée de la Bièvre,6123,Bus,Versailles,78646
+AL65094,Hôtel de Ville,Keolis Vélizy Vallée de la Bièvre,6123,Bus,Versailles,78646
+AL65103,Gare des Chantiers - Abbé Rousseaux,Keolis Vélizy Vallée de la Bièvre,6122,Bus,Versailles,78646
+AL65104,Providence,Keolis Vélizy Vallée de la Bièvre,6122,Bus,Versailles,78646
+AL65105,Cisterciens,Keolis Vélizy Vallée de la Bièvre,6122,Bus,Versailles,78646
+AL65264,Place Laboulaye,Transdev Versailles,6217,Bus,Versailles,78646
+AL66388,Gare des Chantiers - Cour de Buc,Keolis Vélizy Vallée de la Bièvre,6160,Bus,Versailles,78646
+AL66389,Bois des Gonards,Keolis Vélizy Vallée de la Bièvre,6160,Bus,Versailles,78646
+AL66394,Gare des Chantiers - Cour de Buc,Keolis Vélizy Vallée de la Bièvre,6160,Bus,Versailles,78646
+AL66395,Gare des Chantiers - Abbé Rousseaux,Keolis Vélizy Vallée de la Bièvre,6160,Bus,Versailles,78646
+AL66551,Évêché,Francilité Saint-Quentin-en-Yvelines,5134,Bus,Versailles,78646
+AL66553,Les Matelots,Francilité Saint-Quentin-en-Yvelines,5134,Bus,Versailles,78646
+AL66554,Grille de l'Orangerie,Francilité Saint-Quentin-en-Yvelines,5134,Bus,Versailles,78646
+AL66555,Gare Versailles Château Rive Gauche - Sceaux,Francilité Saint-Quentin-en-Yvelines,5134,Bus,Versailles,78646
+AL66932,Gare de Versailles - Rive Droite Bd de la Reine,RATP,471,Bus,Versailles,78646
+AL66933,Gare de Versailles - Rive Droite,RATP,471,Bus,Versailles,78646
+AL66934,Université,RATP,471,Bus,Versailles,78646
+AL67128,Gare routière de Versailles Chantiers - Quai I,SNCF,U,Bus,Versailles,78646
+AL67157,Gare de Montreuil,SNCF,L,LocalTrain,Versailles,78646
+AL68930,Gare routière de Versailles Chantiers - Quai H,Francilité Express Ouest,39-12,Bus,Versailles,78646
+AL69367,Cité des Cadres / Bir Hakeim,Francilité Express Ouest,39-34,Bus,Versailles,78646
+AL69423,Hôtel de Ville,Keolis Vélizy Vallée de la Bièvre,6163,Bus,Versailles,78646
+AL69424,Bois des Gonards,Keolis Vélizy Vallée de la Bièvre,6163,Bus,Versailles,78646
+AL69900,Porchefontaine,SNCF,C,RapidTransit,Versailles,78646
+AL69901,Versailles Château Rive Gauche,SNCF,C,RapidTransit,Versailles,78646
+AL70576,Pré Catalan,Transdev Sud Yvelines,17s,Bus,Versailles,78646
+AL70577,Place Laboulaye,Transdev Sud Yvelines,17s,Bus,Versailles,78646
+AL70981,Saint-Cyr,SNCF,T13,Bus,Versailles,78646
+AL71010,Hôtel de Ville,Keolis Vélizy Vallée de la Bièvre,6185,Bus,Versailles,78646
+AL71011,Pont Colbert,Keolis Vélizy Vallée de la Bièvre,6185,Bus,Versailles,78646
+AL71012,Gare de Versailles Château Rive Gauche,Keolis Vélizy Vallée de la Bièvre,6185,Bus,Versailles,78646
+AL71013,Évêché,Keolis Vélizy Vallée de la Bièvre,6185,Bus,Versailles,78646
+AL72277,Lycée Jules Ferry,Transdev Versailles,6210,Bus,Versailles,78646
+AL72278,Borgnis Desbordes,Transdev Versailles,6210,Bus,Versailles,78646
+AL72279,Évêché,Transdev Versailles,6210,Bus,Versailles,78646
+AL72280,Alexandre 1er,Transdev Versailles,6210,Bus,Versailles,78646
+AL72287,Versailles Château Rive Gauche,Transdev Versailles,6213,Bus,Versailles,78646
+AL72288,Gauthier de Clagny,Transdev Versailles,6213,Bus,Versailles,78646
+AL72289,Université - Prévert,Transdev Versailles,6213,Bus,Versailles,78646
+AL72290,Europe,Transdev Versailles,6213,Bus,Versailles,78646
+AL72291,Gare routière de Versailles Chantiers - Quai A,Transdev Versailles,6213,Bus,Versailles,78646
+AL72312,Gare de Versailles Château Rive Gauche,Keolis Vélizy Vallée de la Bièvre,6173,Bus,Versailles,78646
